@@ -1,8 +1,4 @@
-import java.util.Scanner;
-
-import static java.lang.Math.*;
-
-public class Main {
+public class Task1 {
     public static void main(String[] args) {
         String y = "гитара";
         int array = 6834;
